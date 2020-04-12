@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586625518 source:c:\cs201\assignment1\main.cpp
+	"SimpleFilm.h"
+	"SimpleFC.h"
+
+1573755266 source:c:\cs201\assignment1\simplefc.cpp
+	"SimpleFC.h"
+
+1573402744 c:\cs201\assignment1\simplefc.h
+	"SimpleFilm.h"
+
+1573411816 c:\cs201\assignment1\simplefilm.h
+	<string>
+	<iostream>
+
+1573418238 source:c:\cs201\assignment1\simplefilm.cpp
+	"SimpleFilm.h"
+
